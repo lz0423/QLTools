@@ -7,6 +7,7 @@
 
 <h1 align="center">青龙Tools</h1>
 <p><a href="https://github.com/nuanxinqing123/QLTools#%E6%BC%94%E7%A4%BA%E5%9B%BE">查看演示图</a></p>
+<p>V2版本正在开发中: <a href="https://github.com/nuanxinqing123/QLToolsV2">点击前往</a></p>
 
 ## 🍭功能介绍
 - 理论支持青龙全版本
@@ -127,12 +128,9 @@ go-bindata -o=bindata/bindata.go -pkg=bindata ./assets/...
 # 前端自行修改教程：https://6b7.org/518.html
 ```
 
-## 💰Pro版本
-如果 青龙Tools 无法满足你的需求，那么不妨看看它的 Pro 版本
+## Star History
 
-Pro版主页：https://pro.6b7.org
-
-使用说明书：https://www.yuque.com/sevesum/qk1dd7
+[![Star History Chart](https://api.star-history.com/svg?repos=nuanxinqing123/QLTools&type=Date)](https://star-history.com/#nuanxinqing123/QLTools&Date)
 
 ## 📷演示图
 
